@@ -1,3 +1,3 @@
 # JavaScript module to parse IIIF data
 
-This repository is archived. Please see github.com/allmaps/allmaps.
+This repository is archived. Please see https://github.com/allmaps/allmaps.
